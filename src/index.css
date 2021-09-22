@@ -41,6 +41,10 @@ body {
   grid-column-end: span 2;
 }
 
+.options {
+  background-color: red;
+}
+
 button {
   padding: 2rem 4rem;
   font-size: 1.5rem;
