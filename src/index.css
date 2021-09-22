@@ -39,8 +39,6 @@ body {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-auto-rows: minmax(8rem, auto);
-  /* column-gap: 0.05rem;
-  row-gap: 0.05rem; */
 }
 
 .zero {
