@@ -21,20 +21,26 @@ body {
   left: 50%;
   position: absolute;
   transform: translate(-50%, -50%);
-  background-color: rgb(126, 126, 126);
+  background-color: rgb(134, 132, 132);
 }
 
 .result {
   text-align: end;
   font-size: 2rem;
   color: #fff;
-  padding: 2rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  padding: 1rem;
+  height: 6rem;
 }
 
 .keypad {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-auto-rows: minmax(7rem, auto);
+  grid-auto-rows: minmax(8rem, auto);
+  /* column-gap: 0.05rem;
+  row-gap: 0.05rem; */
 }
 
 .zero {
@@ -46,6 +52,7 @@ body {
 }
 
 button {
+  margin: 0.01rem;
   padding: 2rem 4rem;
   font-size: 1.5rem;
   border: none;
