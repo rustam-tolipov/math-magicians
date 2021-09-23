@@ -26,9 +26,9 @@ To get a local copy up and running follow these simple example steps.
 - Git
 - GitHub
 
-<!-- ## Live Demo
+## Live Demo
 
-[Live Demo Link](https://rustamxon7.github.io/Leaderboard/) -->
+[Live Demo Link](https://rustamxon7.github.io/Math-Magicians/)
 
 ### Install
 
