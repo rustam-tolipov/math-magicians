@@ -39,6 +39,7 @@ body {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-auto-rows: minmax(8rem, auto);
+  margin: 0.01rem;
 }
 
 .zero {
@@ -50,7 +51,6 @@ body {
 }
 
 button {
-  margin: 0.01rem;
   padding: 2rem 4rem;
   font-size: 1.5rem;
   border: none;
