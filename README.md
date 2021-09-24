@@ -2,7 +2,7 @@
 
 # Math-Magicians
 
-![ReactCalc](https://user-images.githubusercontent.com/69011963/134337289-8ee0750f-be7b-4fbb-b300-922c2027ca9a.gif)
+![ReactCalc](https://user-images.githubusercontent.com/69011963/134511417-bc21ab6b-a3e6-4eb2-b668-7a672682b0a3.gif)
 
 Additional description about the project and its features.
 
@@ -26,9 +26,9 @@ To get a local copy up and running follow these simple example steps.
 - Git
 - GitHub
 
-<!-- ## Live Demo
+## Live Demo
 
-[Live Demo Link](https://rustamxon7.github.io/Leaderboard/) -->
+[Live Demo Link](https://rustamxon7.github.io/Math-Magicians/)
 
 ### Install
 
