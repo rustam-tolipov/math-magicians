@@ -1,25 +1,6 @@
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 
-// eslint-disable-next-line react/prefer-stateless-function
-// export default class Calculator extends React.Component {
-// constructor(props) {
-//   super(props);
-//   this.state = {
-//     total: 0,
-//     next: null,
-//     operation: null,
-//   };
-//   this.btn = this.btn.bind(this);
-// }
-
-// btn(e) {
-//   this.setState((state) => calculate(state, e.target.name));
-// }
-
-// render() {
-//   const { total, operation, next } = this.state;
-
 const Calculator = () => {
   const [state, setstate] = useState({
     total: 0,
