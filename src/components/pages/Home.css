@@ -1,0 +1,21 @@
+.home__container {
+  padding: 5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+  min-height: 100vh;
+
+  background-color: #3AAFA9;
+  color: #000;
+
+  font-family: 'Inter';
+}
+
+.title {
+  font-size: 5rem;
+}
+
+.description {
+  font-size: 3rem;
+  line-height: 1.5;
+}
