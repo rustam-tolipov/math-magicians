@@ -2,10 +2,9 @@
   top: 30%;
   left: 60%;
   position: absolute;
-
   background-color: rgb(134, 132, 132);
   border-top: 3px solid #2bb9dd;
-  box-shadow: 0 0 2rem 0rem rgba(0, 0, 0, 0.267);
+  box-shadow: 0.1px 0.1px 2rem 0.1rem rgba(0, 0, 0, 0.267);
   border-radius: 9px;
   overflow: hidden;
 }
@@ -15,7 +14,7 @@
   font-size: 2rem;
   color: #fff;
   background-color: rgb(36, 36, 36);
-  box-shadow: 0 0.2rem 1rem 0rem inset black;
+  box-shadow: 0.1px 0.2rem 1rem 0.1rem inset black;
   display: flex;
   align-items: center;
   justify-content: end;
@@ -48,7 +47,4 @@ button {
   font-size: 1.5rem;
   border: none;
   cursor: pointer;
-}
-
-button:hover {
 }

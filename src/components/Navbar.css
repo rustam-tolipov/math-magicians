@@ -12,11 +12,9 @@
   padding-top: 3rem;
   padding-left: 5rem;
   cursor: pointer;
-
   font-family: 'Inter', sans-serif;
-  background-color: #3AAFA9;
+  background-color: #3aafa9;
   color: #fff;
-
   padding-bottom: 3rem;
   border-bottom: 3px solid black;
 }
@@ -39,6 +37,7 @@
   padding-right: 3rem;
   border-right: black solid 0.3rem;
 }
+
 .item a:link,
 .item a:visited {
   color: #000;
