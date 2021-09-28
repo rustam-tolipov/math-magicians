@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;700;900&display=swap');
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 3rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  text-decoration: none;
+  list-style: none;
+  padding-top: 3rem;
+  padding-left: 5rem;
+  cursor: pointer;
+
+  font-family: 'Inter', sans-serif;
+  background-color: #3AAFA9;
+  color: #fff;
+
+  padding-bottom: 3rem;
+  border-bottom: 3px solid black;
+}
+
+.navbar__title {
+  font-size: 4.8rem;
+  font-weight: 700;
+}
+
+.navbar__items {
+  padding-right: 5rem;
+  display: flex;
+  list-style: none;
+  gap: 3rem;
+  font-size: 3rem;
+  text-decoration: none;
+}
+
+.item:not(:last-child) {
+  padding-right: 3rem;
+  border-right: black solid 0.3rem;
+}
+.item a:link,
+.item a:visited {
+  color: #000;
+  font-weight: 500;
+  font-size: 2.8rem;
+  text-decoration: none;
+}
