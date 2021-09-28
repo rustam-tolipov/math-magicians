@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
-
+import './Calculator.css';
 // eslint-disable-next-line react/prefer-stateless-function
 // export default class Calculator extends React.Component {
 // constructor(props) {
