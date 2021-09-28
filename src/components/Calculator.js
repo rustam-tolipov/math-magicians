@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 import './Calculator.css';
 
-
 const Calculator = () => {
   const [state, setstate] = useState({
     total: 0,
