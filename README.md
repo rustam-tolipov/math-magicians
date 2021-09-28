@@ -2,7 +2,7 @@
 
 # Math-Magicians
 
-![ReactCalc](https://user-images.githubusercontent.com/69011963/134511417-bc21ab6b-a3e6-4eb2-b668-7a672682b0a3.gif)
+![Screen Shot 2021-09-28 at 7 08 00 PM](https://user-images.githubusercontent.com/69011963/135103806-a4638727-6ec7-416c-aa6c-c53b37076c8b.png)
 
 Additional description about the project and its features.
 
