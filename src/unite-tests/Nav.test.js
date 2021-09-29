@@ -3,7 +3,7 @@ import renderer from 'react-test-renderer';
 import { BrowserRouter as Router } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 
-it('Navbar component working', () => {
+it('Navbar component is working', () => {
   const tree = renderer
     .create(
       <Router>
