@@ -1,0 +1,22 @@
+.quote__page {
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 80vh;
+  padding: 15rem;
+  gap: 5rem;
+  background-color: #3aafa9;
+  min-height: 100vh;
+  font-family: 'Inter', sans-serif;
+}
+
+.quote__page__title {
+  font-size: 4rem;
+}
+
+.author {
+  font-size: 4rem;
+  margin-left: auto;
+}

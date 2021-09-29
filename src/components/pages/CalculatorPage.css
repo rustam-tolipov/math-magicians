@@ -1,0 +1,11 @@
+.calculator__page {
+  padding: 5rem;
+  background-color: #3aafa9;
+  min-height: 100vh;
+}
+
+.title {
+  font-family: 'Inter', sans-serif;
+  font-size: 5rem;
+  font-weight: 500;
+}
