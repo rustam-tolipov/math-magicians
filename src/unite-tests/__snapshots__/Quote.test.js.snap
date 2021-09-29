@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Quote component is working 1`] = `
+<div
+  className="quote__page"
+>
+  <p
+    className="quote__page__title"
+  >
+    “That foundness for science has encouraged me to compose a short work on calculating by al-jabr and al-muqobala, confining it to what is easiest ad most useful in arithmetic”
+  </p>
+  <p
+    className="author"
+  >
+    - Muhammad ibn Musa al-Khwarizmi (780-850)
+  </p>
+</div>
+`;

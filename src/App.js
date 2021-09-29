@@ -21,7 +21,9 @@ class App extends React.Component {
             <Route path="/Math-Magicians" exact component={Home} />
             <Route path="/" exact component={Home} />
             <Route path="/calculator" exact component={CalculatorPage} />
-            <Route path="/quote" exact component={Quote} />
+            <Route>
+              <Quote />
+            </Route>
           </Switch>
         </Router>
       </div>

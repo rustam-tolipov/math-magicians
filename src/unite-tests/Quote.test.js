@@ -1,14 +1,16 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import Home from '../components/pages/Home';
+import Quote from '../components/pages/Quote';
 
-it('Home component is working', () => {
+it('Quote component is working', () => {
   const tree = renderer
     .create(
       <Router>
         <Switch>
-          <Route path="/" exact component={Home} />
+          <Route>
+            <Quote />
+          </Route>
         </Switch>
       </Router>,
     )
