@@ -1,14 +1,14 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import Home from '../components/pages/Home';
+import CalculatorPage from '../components/pages/CalculatorPage';
 
 it('CalculatorPage component is working', () => {
   const tree = renderer
     .create(
       <Router>
         <Switch>
-          <Route path="/Math-Magicians" exact component={Home} />
+          <Route path="/Math-Magicians" exact component={CalculatorPage} />
         </Switch>
       </Router>,
     )
