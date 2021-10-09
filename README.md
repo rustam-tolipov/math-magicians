@@ -17,14 +17,14 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+<!-- ### Prerequisites
 
 - HTML
 - CSS
 - JavaScript
 - React
 - Git
-- GitHub
+- GitHub -->
 
 ## Live Demo
 
@@ -32,7 +32,7 @@ To get a local copy up and running follow these simple example steps.
 
 [Netlify](https://dreamy-davinci-78e4ff.netlify.app/#/quote)
 
-
+[Heroku](https://math-magicians-uz.herokuapp.com/#/calculator)
 
 ### Install
 
