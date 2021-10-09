@@ -28,7 +28,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Live Demo
 
-[Live Demo Link](https://rustamxon7.github.io/Math-Magicians/)
+[Github](https://rustamxon7.github.io/Math-Magicians/)
+
+[Netlify](https://dreamy-davinci-78e4ff.netlify.app/#/quote)
+
+
 
 ### Install
 
